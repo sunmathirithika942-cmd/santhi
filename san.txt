@@ -1,1 +1,1 @@
-country:india
+country:usa
